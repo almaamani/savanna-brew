@@ -30,7 +30,7 @@ a:hover, a:focus { color: var(--accent); outline: 2px solid var(--accent); outli
 /* ---------- 3. LAYOUT HELPERS ---------- */
 .container { width: 90%; max-width: 1100px; margin: 0 auto; padding: 2.5rem 0; }
 
-/* Fancy Title with Lines (matches screenshot) */
+/* Fancy Title with Lines */
 .fancy-title {
   display: flex;
   align-items: center;
